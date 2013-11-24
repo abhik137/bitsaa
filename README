@@ -1,3 +1,16 @@
+Remember to update the:
+
+- template directory
+
+- client ID & secret in views of 'flipkart'
+
+to make this work
+
+
+
+
+
+*********************
 This is a OAuth2.0 implementation for BITSAA as a part of design project of BITS Pilani.
 
 You must have installed
