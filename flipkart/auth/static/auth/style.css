@@ -1,0 +1,17 @@
+li a {
+	color: green;
+}
+
+body {
+	background: white url("images/flipkart.png") no-repeat center;
+}
+
+h1 {
+	text-align:center;
+	color:#990000;
+}
+
+table, th, td
+{
+	border: 1px solid black;
+}
